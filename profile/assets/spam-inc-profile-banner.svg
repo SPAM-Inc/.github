@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">SPAM Inc. development team.</title>
+  <desc id="desc">Black and white typographic banner for SPAM Inc.</desc>
+
+  <defs>
+    <clipPath id="frame">
+      <rect width="1200" height="320" rx="8"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="#ffffff"/>
+
+    <!-- right-side abstract mark -->
+    <circle cx="1120" cy="160" r="218" fill="#000000"/>
+    <circle cx="1120" cy="160" r="154" fill="#ffffff"/>
+    <circle cx="1120" cy="160" r="92" fill="#000000"/>
+
+    <!-- small label -->
+    <text x="54" y="54"
+          fill="#000000"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="15"
+          font-weight="700"
+          letter-spacing="2.4">SPAM / DEVELOPMENT</text>
+
+    <!-- main wordmark -->
+    <text x="48" y="218"
+          fill="#000000"
+          font-family="Georgia, 'Times New Roman', serif"
+          font-style="italic"
+          font-weight="700"
+          font-size="138"
+          letter-spacing="-6">SPAM Inc.</text>
+
+    <!-- subtitle -->
+    <text x="56" y="276"
+          fill="#000000"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="20"
+          font-weight="600">software, automation &amp; infrastructure</text>
+  </g>
+</svg>
