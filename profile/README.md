@@ -16,4 +16,4 @@ Repositories under SPAM Inc. include open-source tools, internal projects we dec
 
 For development, integrations, automation, or collaboration:
 
-[GitHub](https://github.com/SPAM-Inc) / [Telegram](https://t.me/hahahahgaha) / [Email](mailto:contact@nnstore.org)
+[GitHub](https://github.com/SPAM-Inc) / [Email](mailto:support@rkn.fail)
